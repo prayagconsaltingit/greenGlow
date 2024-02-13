@@ -4318,7 +4318,7 @@ body .ui-tooltip {
 }
 
 .header__logo {
-  max-width: 150px;
+  max-width: 110px;
 }
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
   .header__logo {
@@ -8489,7 +8489,7 @@ body .ui-tooltip {
   overflow: hidden;
   max-width: 632px;
   position: relative;
-  padding: 40px 95px;
+  padding: 60px 50px;
   gap: 49px;
   border-radius: 5px;
   border: 1px solid var(--rs-gray-200);
